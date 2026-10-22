@@ -114,8 +114,8 @@ The objective of Book Buddy is to provide a simple and convenient way to maintai
 
 ## 📄 License and Attribution
 
-Review the license and attribution requirements of any original code used in this project. Add your own license only if you have the right to do so.
+Book Buddy is a reading tracker project developed to help users organize books, track reading progress, and manage personal notes and ratings.
 
----
+Third-party libraries, frameworks, and any reused code are subject to their respective licenses and attribution requirements.
 
-Developed as a Book Buddy reading tracker project.
+**Developed as a Book Buddy Reading Tracker Project.**
