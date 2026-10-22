@@ -45,7 +45,7 @@ book-buddy-project/
 └── README.md
 ```
 
-## 🚀 Run Locally
+## Run Locally
 
 ### Prerequisites
 - Python 3
@@ -55,7 +55,7 @@ book-buddy-project/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Adhithya20/book-buddy-project.git
+git clone https://github.com/Adhithya20/book-buddy-application-project-
 cd book-buddy-project
 ```
 
