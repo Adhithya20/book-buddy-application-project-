@@ -97,8 +97,8 @@ For local development, configure the frontend API URL as `http://127.0.0.1:5000`
 
 ## 🌐 Live Demo
 
-- **Frontend:** https://book-buddy-project-4she.onrender.com
-- **Backend API:** https://book-buddy-project-1.onrender.com
+- **Frontend:** https://book-buddy-application-project-1.onrender.com
+- **Backend API:** https://book-buddy-application-project.onrender.com
 
 ## 🔧 Deployment
 
