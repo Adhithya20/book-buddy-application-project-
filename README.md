@@ -1,8 +1,8 @@
-# 📚 Book Buddy – Reading Tracker
+# Book Buddy – Reading Tracker
 
 Book Buddy is a web application that helps users organize their personal reading lists, track reading progress, and manage their reading goals in one place.
 
-## ✨ Features
+## Features
 
 - **Add Books:** Add books with title, author, genre, and reading status.
 - **Reading Progress:** Track progress as you read.
@@ -10,7 +10,7 @@ Book Buddy is a web application that helps users organize their personal reading
 - **Reading Statistics:** View reading progress and books by genre.
 - **Personal Notes and Ratings:** Record thoughts and ratings for completed books.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - React.js
@@ -26,7 +26,7 @@ Book Buddy is a web application that helps users organize their personal reading
 ### Database
 - SQLite
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 book-buddy-project/
