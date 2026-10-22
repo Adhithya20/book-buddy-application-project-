@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import "./app.css";
 
-const API = "http://127.0.0.1:5000";
+const API = "https://book-buddy-application-project.onrender.com";
 
 function App() {
   const [books, setBooks] = useState([]);
